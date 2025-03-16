@@ -1,0 +1,42 @@
+# standard folders and files .NET
+bin/
+obj/
+*.user
+*.suo
+*.vsp
+*.vspx
+*.vspscc
+*.vssscc
+*.cache
+*.pdb
+*.log
+*.tlog
+*.sdf
+*.dbmdl
+*.pfx
+*.snk
+*.psess
+*.pyc
+*.pyproj.user
+*.log
+
+# local files Visual Studio
+.vs/
+.idea/
+*.csproj.user
+*.csproj.vspscc
+*.sln.docstates
+
+# user settings and configuration
+app.config
+appsettings.json
+launchSettings.json
+
+# automatically generated files
+Backup*/
+TestResults/
+node_modules/
+dist/
+packages/
+*.nupkg
+project.lock.json
